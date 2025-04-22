@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Título do app
-st.set_page_config(page_icon="corina_ico.png")
+st.set_page_config(page_title="Pesquisa DJE", page_icon="corina_ico.png")
 
 st.markdown(
     "<h3 style='text-align: center;'>TRT12<br>Corregedoria Regional</h3>", 
